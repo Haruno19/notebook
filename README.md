@@ -1,8 +1,8 @@
-<h1>🗒 Notebook</h1>
-<p>
+<h1 align="center">🗒 Notebook</h1>
+<p align="center">
   My Computer Science notebook at University
 </p>
-<h6>
+<h6 align="center">
   <i>Collection of notes </i>[IT]<i> and details about my studying setup, devices and software </i>[EN]
 </h6><br>
 
