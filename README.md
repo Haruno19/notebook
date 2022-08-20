@@ -1,12 +1,12 @@
 <h1 align="center">🗒 Notebook</h1>
-<p align="center">
+<table align="center"><tr><td>
   My Computer Science notebook at University
-</p>
+</td></tr></table>
 <h6 align="center">
   <i>Collection of notes </i>[IT]<i> and details about my studying setup, devices and software </i>[EN]
 </h6><br>
 
-<h2> Courses </h2>
+<h2 align="left"> Courses </h2>
 <details>
 <summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary>
   <details> 
