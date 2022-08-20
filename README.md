@@ -1,14 +1,16 @@
 <h1 align="center">🗒 Notebook</h1>
+<br>
 <table align="center"><tr><td>
   My Computer Science notebook
 </td></tr></table>
 <h6 align="center">
   <i>Collection of notes </i>[IT]<i> and details about my studying setup, devices and software </i>[EN]
-</h6><br>
+</h6>
+<br>
 
 <h2 align="left"> Courses </h2>
-<details>
-<summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary>
+<ul>
+<li><summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Analisi%201"><b>Analisi Matematica I</b></a>
@@ -28,10 +30,8 @@
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algebra%20e%20Geometria%20Lineare"><b>•Algebra e Geometria Lineare</b></a>
       <i>- [Linear Algebra]</i><br>
   </details>
-</details>
 
-<details>
-<summary><h3>2º Year</h3> <h6><i> - 2022/2023</i></h6></summary>
+<li><summary><h3>2º Year</h3> <h6><i> - 2022/2023</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
   </details>
@@ -39,4 +39,4 @@
   <details> 
   <summary><b>2º Semester</b></summary>
   </details>
-</details>
+</ul>
