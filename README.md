@@ -1,25 +1,42 @@
-# Appunti (Corso di Informatica)  
-Raccolta di appunti dal corso di Informatica triennale in Bicocca.
-## Corsi
-* Primo Anno _(2021-2022)_ 
-  * Primo Semestre _(Settembre - Febbraio)_  
-    * Analisi 1
-    * Programmazione 1
-    * Fondamenti dell'Informatica
-  * Secondo Semestre _(Marzo - Agosto)_
-    * Algebra e Geometria Lineare
-    * Programmazione 2
-    * Algoritmi e Strutture Dati
-    * Architettura degli Elaboratori
+<h1>🗒 Notebook</h1>
+<p>
+  My Computer Science notebook at University
+</p>
+<h6>
+  <i>Collection of notes </i>[IT]<i> and details about my studying setup, devices and software </i>[EN]
+</h6><br>
 
-Gli appunti (esportati in formato `.PDF`) sono divisi tra lezioni di teoria e esercitazioni/laboratori.  
-Il linguaggio di programmazione utilizato è `Java`. 
+<h2> Courses </h2>
+<details>
+<summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary>
+  <details> 
+  <summary><b>1º Semester</b></summary>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Analisi%201"><b>Analisi Matematica I</b></a>
+      <i>- [Mathematical Analysis I]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Fondamenti%20dell'Informatica"><b>Fondamenti dell'Informatica</b></a>
+      <i>- [Fundamentals of Computer Science]</i><br>
+  </details>
+  
+  <details> 
+  <summary><b>2º Semester</b></summary>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Programmazione%202"><b>Programmazione 2</b></a>
+      <i>- [Programming 2]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Architettura%20degli%20Elaboratori"><b>Architettura degli Elaboratori</b></a>
+      <i>- [Computer Architecure]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algoritmi%20e%20Strutture%20Dati"><b>Algoritmi e Strutture Dati2</b></a>
+      <i>- [Algorithms and Data Structures]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algebra%20e%20Geometria%20Lineare"><b>•Algebra e Geometria Lineare</b></a>
+      <i>- [Linear Algebra]</i><br>
+  </details>
+</details>
 
-## App  
-Le applicazioni che utilizzo per prendere questi appunti sono:
-* [GoodNotes 5](https://www.goodnotes.com)
-* [Craft Docs](https://www.craft.do)
-
-Le applicazioni che utilizzo per creare i file relativi ai circuiti logici sono:
-* [LogicArt](https://apps.apple.com/us/app/logicart-digital-circuit-sim/id1536767149) _(per i file in formato `.JSON`)_
-* [Logisim](http://www.cburch.com/logisim/) _(per i file in formato `.circ`)_
+<details>
+<summary><h3>2º Year</h3> <h6><i> - 2022/2023</i></h6></summary>
+  <details> 
+  <summary><b>1º Semester</b></summary>
+  </details>
+  
+  <details> 
+  <summary><b>2º Semester</b></summary>
+  </details>
+</details>
