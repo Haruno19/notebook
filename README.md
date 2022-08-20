@@ -1,6 +1,6 @@
 <h1 align="center">🗒 Notebook</h1>
 <table align="center"><tr><td>
-  My Computer Science notebook at University
+  My Computer Science notebook
 </td></tr></table>
 <h6 align="center">
   <i>Collection of notes </i>[IT]<i> and details about my studying setup, devices and software </i>[EN]
