@@ -42,6 +42,15 @@
   <details> 
   <summary><b>2º Semester</b></summary>
   </details>
+  
+<li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
+  <details> 
+  <summary><b>1º Semester</b></summary>
+  </details>
+  
+  <details> 
+  <summary><b>2º Semester</b></summary>
+  </details>
 </ul>
 <br>
 
