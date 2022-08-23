@@ -17,7 +17,7 @@
     <li><i>binary trees</i></li>
     <li>the <i>heap</i></li>
   </ul>
-  <summary>We also studied various <i>sorting algorithms</i> and their <i>time complexity</i> <h6><i>(Counting Sort is still my favourite <3)</i></h6><summary>
+  <summary>We also studied various <i>sorting algorithms</i> and their <i>time complexity</i> <h6><i>(<a href="https://github.com/Haruno19/stable-counting-sort-cpp">Counting Sort</a> is still my favourite <3)</i></h6><summary>
 </p>
 <p>
  This course was really fun and interesting, and not hard to follow. It one of my favourites of the first year.
