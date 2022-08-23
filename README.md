@@ -14,7 +14,7 @@
 <li><summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
-    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programmazione 1</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programmazione I</b></a>
       <i>- [Programming I]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Analisi%201"><b>Analisi Matematica I</b></a>
       <i>- [Mathematical Analysis I]</i><br>
@@ -24,8 +24,8 @@
   
   <details> 
   <summary><b>2º Semester</b></summary>
-    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Programmazione%202"><b>Programmazione 2</b></a>
-      <i>- [Programming 2]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Programmazione%202"><b>Programmazione II</b></a>
+      <i>- [Programming II]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Architettura%20degli%20Elaboratori"><b>Architettura degli Elaboratori</b></a>
       <i>- [Computer Architecure]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algoritmi%20e%20Strutture%20Dati"><b>Algoritmi e Strutture Dati</b></a>
