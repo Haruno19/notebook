@@ -1,8 +1,8 @@
-<br><h1> Programming 2 </h1>
+<br><h1> Programming II </h1>
 
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
-  <b>Programming 2</b> is the follow-up course of <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programming 1</b></a>.<br>
+  <b>Programming II</b> is the follow-up course of <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programming I</b></a>.<br>
   Its main purpose was introducing and explaining <i>Object Oriented Programming</i> and all its properties, with particular focus on <i>polymorphism</i>. 
 </p>
 <p>
