@@ -9,7 +9,7 @@
   The most interesting topics for me were: 
   <ul>
     <li>the <i>Arithmetic Logic Unit</i> [ALU]'s logic scheme and internal workings</li>
-     <summary><li><i>MIPS32 Assembly</i> language <h6><i>(which made me interested in ARM Assembly as well, check my <a href="https://github.com/Haruno19/m1-assembly">M1 Assembly</a> repository for that)</i></h6></li></summary>
+     <summary><li><i>MIPS32 Assembly</i> language <h6><i>(which made me interested in ARM Assembly as well, check out my <a href="https://github.com/Haruno19/m1-assembly">M1 Assembly</a> repository for that)</i></h6></li></summary>
     <li>the <i>Datapath</i></li>
   </ul>
 </p><br>
