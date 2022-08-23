@@ -20,7 +20,7 @@
   <summary>We also studied various <i>sorting algorithms</i> and their <i>time complexity</i> <h6><i>(<a href="https://github.com/Haruno19/stable-counting-sort-cpp">Counting Sort</a> is still my favourite <3)</i></h6><summary>
 </p>
 <p>
- This course was really fun and interesting, and not hard to follow. It one of my favourites of the first year.
+ This course was really fun and interesting, and not-so-hard to follow. It one of my favourites of the first year.
 </p>
 <p>
   For this course, I took notes on my <i>MacBook</i> with the <i>Craft Docs</i> App and exported it all in the <code>markdown</code> format.
