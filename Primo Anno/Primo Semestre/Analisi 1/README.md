@@ -1,4 +1,5 @@
-<h1> Mathematical Analysis 1 </h1>
+<br><h1> Mathematical Analysis 1 </h1>
+
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
   <b>Mathematical Analysis 1</b> was the toughest course of the first semetster for me.<br>
