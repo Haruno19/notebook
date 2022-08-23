@@ -6,7 +6,7 @@
   I used the latest version available of <code>openjdk</code> for compiling and running code, and <i>Visual Studio Code</i> as my code editor. 
 </p>
 <p>
-  I haven't attended almost any <b>Programming 1</b> lecture, so there are no notes here; just the code for the second half of the first exam. 
+  I haven't attended almost any <b>Programming I</b> lecture, so there are no notes here; just the code for the second half of the first exam. 
 </p>
 
 <br><h3><i>Course status</i></h3>
