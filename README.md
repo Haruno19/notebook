@@ -14,6 +14,8 @@
 <li><summary><h3>1º Year</h3> <h6><i> - 2021/2022</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programmazione 1</b></a>
+      <i>- [Programming I]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Analisi%201"><b>Analisi Matematica I</b></a>
       <i>- [Mathematical Analysis I]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Fondamenti%20dell'Informatica"><b>Fondamenti dell'Informatica</b></a>
