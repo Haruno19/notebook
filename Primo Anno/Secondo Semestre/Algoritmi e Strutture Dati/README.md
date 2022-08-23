@@ -12,7 +12,7 @@
   As well as some data structures:
   <ul>
     <li>the <i>array</i></li>
-    <li>a <i>linked list</i></li>
+    <li>the <i>linked list</i></li>
     <li><i>stack and queue</i></li>
     <li><i>binary trees</i></li>
     <li>the <i>heap</i></li>
