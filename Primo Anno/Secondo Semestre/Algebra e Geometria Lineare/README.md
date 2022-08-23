@@ -2,7 +2,7 @@
 
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
-  <b>Linear Algebra and Geometry</b> was, content-wise, the first year's most difficult course for me. <br>
+  <b>Linear Algebra and Geometry</b> was, content-wise, the most difficult course of the first year for me. <br>
   It's about <i>matrix</i>, <i>vectorial space</i>, <i>linear functions</i>, <i>multi-dimensional geometry</i> and others.
 </p>
 <p>
