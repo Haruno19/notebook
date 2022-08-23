@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-<br><h3><i>Year status</i></h3>
+<br><h3><i>My year status</i></h3>
 <table><tr>
   <td>All exams passed</td>
   <td>Average score: <b>25</b>/30</td>
