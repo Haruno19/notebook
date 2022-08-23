@@ -3,7 +3,7 @@
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
   <b>Computer Architecure</b> was the most interesing course of the first year. <br>
-  It's about various arguments, from the <i>binary and hexadecimal</i> systems, to how information is represented inside of a computer (so, <i>two's complement</i>, <i>floating point</i>, <i>ASCII and Unicode</i>...), to <i>logic gates</i> and <i>sequential logic</i>... <br>
+  It's about various arguments, from the <i>binary and hexadecimal</i> systems, to how information is represented inside of a computer (so, <i>two's complement</i>, <i>floating point</i>, <i>ASCII and Unicode</i>...), to <i>logic gates</i> and <i>sequential logic</i> and many others.<br>
 </p>
 <p>
   The most interesting topics for me were: 
