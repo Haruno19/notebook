@@ -28,7 +28,7 @@
       <i>- [Programming 2]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Architettura%20degli%20Elaboratori"><b>Architettura degli Elaboratori</b></a>
       <i>- [Computer Architecure]</i><br>
-    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algoritmi%20e%20Strutture%20Dati"><b>Algoritmi e Strutture Dati2</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algoritmi%20e%20Strutture%20Dati"><b>Algoritmi e Strutture Dati</b></a>
       <i>- [Algorithms and Data Structures]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algebra%20e%20Geometria%20Lineare"><b>Algebra Lineare e Geometria</b></a>
       <i>- [Linear Algebra and Geometry]</i><br>
