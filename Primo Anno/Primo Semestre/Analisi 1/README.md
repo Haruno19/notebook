@@ -8,7 +8,7 @@
   I enjoyed the contents of this course, but still it was a bit challening for me.<br>
 </p>
 <p>
-  For this course, I took notes with my <i>iPad</i> and the <i>GoodNotes5</i> App and exported it all in `.pdf` format.
+  For this course, I took notes with my <i>iPad</i> and the <i>GoodNotes5</i> App and exported it all in <code>.pdf</code> format.
 </p>
 
 <br><h3><i>Course status</i></h3>
