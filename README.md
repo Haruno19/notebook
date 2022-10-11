@@ -37,6 +37,14 @@
 <li><summary><h3>2º Year</h3> <h6><i> - 2022/2023</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
+   &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Reti%20e%20Sistemi%20Operativi"><b>Reti e Sistemi Operativi</b></a>
+      <i>- [Networks and Operating Systems]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20di%20Programmazione"><b>Linguaggi di Programmazione</b></a>
+      <i>- [Programming Languages]</i><br>
+    &emsp;• <a href=""><b>Lingauggi e Computabilità</b></a>
+      <i>- [Languages and Computability]</i><br>
+    &emsp;• <a href=""><b>Metodi Algebrici per l'Informatica</b></a>
+      <i>- [Algebric Methods for Computer Science]</i><br>
   </details>
   
   <details> 
