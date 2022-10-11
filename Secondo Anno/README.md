@@ -6,7 +6,7 @@
   
 </p><br>
 <p>
-  There were 8 total courses (and exams) the second year, divided in two semesters.
+  There are 8 total courses (and exams) in the second year, divided in two semesters.
 </p>
 <table>
   <tr>
@@ -25,10 +25,10 @@
        <a href=""><b>Algebric Methods for Computer Science</b></a><br>
     </td>
     <td>
-      <a href=""><b>Programming II</b></a><br>
-      <a href=""><b>Computer Architecure</b></a><br>
-      <a href=""><b>Algorithms and Data Structures</b></a><br>
-      <a href=""><b>Linear Algebra and Geometry</b></a><br>
+      <a href=""><b>Distributed Systems</b></a><br>
+      <a href=""><b>Probability and Statistics for Computer Science</b></a><br>
+      <a href=""><b>Data-bases</b></a><br>
+      <a href=""><b>Software Analysis and Design</b></a><br>
     </td>
 </tr>
 </table>
