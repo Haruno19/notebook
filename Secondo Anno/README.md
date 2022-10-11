@@ -1,13 +1,12 @@
-<br><h1> First Year </h1>
-<h6><i>September 2021 - August 2022</i></h6>
+<br><h1> Second Year </h1>
+<h6><i>September 2022 - August 2023</i></h6>
 
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
-  This year was my first year ever studying at University, and I enjoyed it very much. <br>
-  I was able to learn many new things about the Computer World I love :)
+  
 </p><br>
 <p>
-  There were 7 total courses (and exams) the first year, divided in two semesters.
+  There were 8 total courses (and exams) the second year, divided in two semesters.
 </p>
 <table>
   <tr>
@@ -20,21 +19,22 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Programmazione%201"><b>Programming I</b></a><br>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Analisi%201"><b>Mathematical Analysis I</b></a><br>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Primo%20Semestre/Fondamenti%20dell'Informatica"><b>Fundamentals of Computer Science</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Reti%20e%20Sistemi%20Operativi"><b>Networks and Operating Systems</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20di%20Programmazione"><b>Programming Languages</b></a><br>
+      <a href=""><b>Languages and Computability</b></a><br>
+       <a href=""><b>Algebric Methods for Computer Science</b></a><br>
     </td>
     <td>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Programmazione%202"><b>Programming II</b></a><br>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Architettura%20degli%20Elaboratori"><b>Computer Architecure</b></a><br>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algoritmi%20e%20Strutture%20Dati"><b>Algorithms and Data Structures</b></a><br>
-      <a href="https://github.com/Haruno19/notebook/tree/main/Primo%20Anno/Secondo%20Semestre/Algebra%20Lineare%20e%20Geometria"><b>Linear Algebra and Geometry</b></a><br>
+      <a href=""><b>Programming II</b></a><br>
+      <a href=""><b>Computer Architecure</b></a><br>
+      <a href=""><b>Algorithms and Data Structures</b></a><br>
+      <a href=""><b>Linear Algebra and Geometry</b></a><br>
     </td>
 </tr>
 </table>
 
 <br><h3><i>My year status</i></h3>
 <table><tr>
-  <td>All exams passed</td>
-  <td>Average score: <b>25</b>/30</td>
+  <td>Just started! :)</td>
+  <td>Average score: <b>_</b>/30</td>
 </tr></table>
