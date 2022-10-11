@@ -36,5 +36,5 @@
 <br><h3><i>My year status</i></h3>
 <table><tr>
   <td>Just started! :)</td>
-  <td>Average score: <b>_</b>/30</td>
+  <td>Average score: <b> </b>/30</td>
 </tr></table>
