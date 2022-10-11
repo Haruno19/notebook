@@ -7,7 +7,7 @@
   I was able to learn many new things about the Computer World I love :)
 </p><br>
 <p>
-  There were 7 total courses (and exams) the first year, divided in two semesters.
+  There are 7 total courses (and exams) in the first year, divided in two semesters.
 </p>
 <table>
   <tr>
