@@ -3,7 +3,7 @@
 <br><h3><i>Description & Personal Thoughts</i></h3>
 <p>
   <b>Mathematical Analysis I</b> was the toughest course of the first semester for me.<br>
-  It is about the basis of mathematical analysis, icluding various arguments like <i>series and sequences</i>, <i>limits</i>, <i>derivatives and integrals</i>.
+  It is about the basis of mathematical analysis, including various arguments like <i>series and sequences</i>, <i>limits</i>, <i>derivatives and integrals</i>.
 </p>
 <p>
   I enjoyed the contents of this course, but still it was a bit challening for me.<br>
