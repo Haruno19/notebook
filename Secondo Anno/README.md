@@ -21,7 +21,7 @@
     <td>
       <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Reti%20e%20Sistemi%20Operativi"><b>Networks and Operating Systems</b></a><br>
       <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20di%20Programmazione"><b>Programming Languages</b></a><br>
-      <a href=""><b>Languages and Computability</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20e%20Computabilità"><b>Languages and Computability</b></a><br>
        <a href=""><b>Algebric Methods for Computer Science</b></a><br>
     </td>
     <td>
