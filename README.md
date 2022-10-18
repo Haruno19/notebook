@@ -41,9 +41,9 @@
       <i>- [Networks and Operating Systems]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20di%20Programmazione"><b>Linguaggi di Programmazione</b></a>
       <i>- [Programming Languages]</i><br>
-    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20e%20Computabilità"><b>Lingauggi e Computabilità</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20Di%Programmazione"><b>Lingauggi e Computabilità</b></a>
       <i>- [Languages and Computability]</i><br>
-    &emsp;• <a href=""><b>Metodi Algebrici per l'Informatica</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Primo%20Semestre/Linguaggi%20e%20Computabilità"><b>Metodi Algebrici per l'Informatica</b></a>
       <i>- [Algebric Methods for Computer Science]</i><br>
   </details>
   
