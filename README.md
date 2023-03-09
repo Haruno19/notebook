@@ -49,6 +49,14 @@
   
   <details> 
   <summary><b>2º Semester</b></summary>
+  &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/"><b>Sistemi Distribuiti</b></a>
+      <i>- [Distributed Systems]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/"><b>Analisi e Progettazione del Software</b></a>
+      <i>- [Software Engineering]</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/"><b>Probabilità e Statistica</b></a>
+      <i>- []</i><br>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/"><b>Basi di Dati</b></a>
+      <i>- [Data-Bases]</i><br>
   </details>
   
 <li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
