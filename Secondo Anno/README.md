@@ -8,7 +8,7 @@
       <h6><i>September - February</i></h6>
     </td>
     <td>
-      <h4>Scond Semester</h4>
+      <h4>Second Semester</h4>
       <h6><i>March - August</i></h6>
     </td>
   </tr>
