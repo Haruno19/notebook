@@ -1,13 +1,6 @@
 <br><h1> Second Year </h1>
 <h6><i>September 2022 - August 2023</i></h6>
 
-<br><h3><i>Description & Personal Thoughts</i></h3>
-<p>
-  
-</p><br>
-<p>
-  There are 8 total courses (and exams) in the second year, divided in two semesters.
-</p>
 <table>
   <tr>
     <td>
