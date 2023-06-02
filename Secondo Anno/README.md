@@ -12,9 +12,11 @@
   <tr>
     <td>
       <h4>First Semester</h4>
+      <h6><i>September - February</i></h6>
     </td>
     <td>
       <h4>Scond Semester</h4>
+      <h6><i>March - August</i></h6>
     </td>
   </tr>
   <tr>
@@ -25,10 +27,10 @@
        <a href=""><b>Algebric Methods for Computer Science</b></a><br>
     </td>
     <td>
-      <a href=""><b>Distributed Systems</b></a><br>
-      <a href=""><b>Probability and Statistics for Computer Science</b></a><br>
-      <a href=""><b>Data-bases</b></a><br>
-      <a href=""><b>Software Analysis and Design</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/Sistemi%20Distribuiti"><b>Distributed Systems</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/Analisi%20e%20Progettazione%20del%20Software"><b>Software Engineering</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/Probabilità%20e%20Statistica%20per%20l'Informatica"><b>Probability and Statistics</b></a><br>
+      <a href=""><b>DataBase</b></a><br>
     </td>
 </tr>
 </table>
