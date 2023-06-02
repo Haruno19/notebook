@@ -1,14 +1,6 @@
 <br><h1> First Year </h1>
 <h6><i>September 2021 - August 2022</i></h6>
 
-<br><h3><i>Description & Personal Thoughts</i></h3>
-<p>
-  This year was my first year ever studying at University, and I enjoyed it very much. <br>
-  I was able to learn many new things about the Computer World I love :)
-</p><br>
-<p>
-  There are 7 total courses (and exams) in the first year, divided in two semesters.
-</p>
 <table>
   <tr>
     <td>
