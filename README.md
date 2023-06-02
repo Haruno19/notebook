@@ -54,9 +54,9 @@
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/Analisi%20e%20Progettazione%20del%20Software"><b>Analisi e Progettazione del Software</b></a>
       <i>- [Software Engineering]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/Probabilità%20e%20Statistica%20per%20l'Informatica"><b>Probabilità e Statistica</b></a>
-      <i>- []</i><br>
+      <i>- [Probability And Statistics]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Secondo%20Anno/Secondo%20Semestre/"><b>Basi di Dati</b></a>
-      <i>- [Data-Bases]</i><br>
+      <i>- [DataBase]</i><br>
   </details>
   
 <li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
