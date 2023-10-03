@@ -30,6 +30,6 @@
 
 <br><h3><i>My year status</i></h3>
 <table><tr>
-  <td>Last exam session</td>
-  <td>Average score: <b> </b>/30</td>
+  <td>All exams passed</td>
+  <td>Average score: <b>25.5</b>/30</td>
 </tr></table>
