@@ -62,11 +62,18 @@
 <li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
+    &emsp;• <a href=""><b>Analisi e Progettazione di Algoritmi</b></a>
+      <i>- [Design and Analysis of Algorithms]</i><br>
+    &emsp;• <a href=""><b>Ricerca Operativa e Pianificazione delle Risorse</b></a>
+      <i>- [Operations Research and Resource Planning]</i><br>
+    &emsp;• <a href=""><b>Interazione Uomo-Machina</b></a>
+      <i>- [Human-Computer Interaction]</i><br>
+    &emsp;• <a href=""><b>Introduzione all'Intelligenza Artificiale</b></a>
+      <i>- [Introduction to Artificial Intelligence]</i><br>
+    &emsp;• <a href=""><b>Programmazione C++</b></a>
+      <i>- [C++ Programming]</i><br>
   </details>
-  
-  <details> 
-  <summary><b>2º Semester</b></summary>
-  </details>
+
 </ul>
 <br>
 
