@@ -62,13 +62,13 @@
 <li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
-    &emsp;• <a href=""><b>Analisi e Progetto di Algoritmi</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Analisi%20e%20Progetto%20di%20Algoritmi"><b>Analisi e Progetto di Algoritmi</b></a>
       <i>- [Design and Analysis of Algorithms]</i><br>
-    &emsp;• <a href=""><b>Ricerca Operativa e Pianificazione delle Risorse</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Ricerca%20Operativa%20e%20Pianificazione%20delle%20Risorse"><b>Ricerca Operativa e Pianificazione delle Risorse</b></a>
       <i>- [Operations Research and Resource Planning]</i><br>
-    &emsp;• <a href=""><b>Interazione Uomo-Machina</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Interazione%20Uomo-Macchina"><b>Interazione Uomo-Machina</b></a>
       <i>- [Human-Computer Interaction]</i><br>
-    &emsp;• <a href=""><b>Introduzione all'Intelligenza Artificiale</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Introduzione%20all'Intelligenza%20Artificiale"><b>Introduzione all'Intelligenza Artificiale</b></a>
       <i>- [Introduction to Artificial Intelligence]</i><br>
     &emsp;• <a href=""><b>Programmazione C++</b></a>
       <i>- [C++ Programming]</i><br>
