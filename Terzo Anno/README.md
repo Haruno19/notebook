@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<br><h3><i>My year status</i></h3>
+<br><h3><i>How I'm doing</i></h3>
 <table><tr>
   <td>Just started :)</td>
   <td>Average score: <b> </b>/30</td>
