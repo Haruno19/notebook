@@ -62,7 +62,7 @@
 <li><summary><h3>3º Year</h3> <h6><i> - 2023/2024</i></h6></summary></li>
   <details> 
   <summary><b>1º Semester</b></summary>
-    &emsp;• <a href=""><b>Analisi e Progettazione di Algoritmi</b></a>
+    &emsp;• <a href=""><b>Analisi e Progetto di Algoritmi</b></a>
       <i>- [Design and Analysis of Algorithms]</i><br>
     &emsp;• <a href=""><b>Ricerca Operativa e Pianificazione delle Risorse</b></a>
       <i>- [Operations Research and Resource Planning]</i><br>
