@@ -70,7 +70,7 @@
       <i>- [Human-Computer Interaction]</i><br>
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Introduzione%20all'Intelligenza%20Artificiale"><b>Introduzione all'Intelligenza Artificiale</b></a>
       <i>- [Introduction to Artificial Intelligence]</i><br>
-    &emsp;• <a href=""><b>Programmazione C++</b></a>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Programmazione%20C%2B%2B"><b>Programmazione C++</b></a>
       <i>- [C++ Programming]</i><br>
   </details>
 
