@@ -14,7 +14,7 @@
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Ricerca%20Operativa%20e%20Pianificazione%20delle%20Risorse"><b>Operations Research and Resource Planning</b></a><br>
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Interazione%20Uomo-Macchina"><b>Human-Computer Interaction</b></a><br>
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Introduzione%20all'Intelligenza%20Artificiale"><b>Introduction to Artificial Intelligence</b></a><br>
-      <a href=""><b>C++ Programming</b></a><br>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Programmazione%20C%2B%2B"><b>C++ Programming</b></a><br>
     </td>
 </tr>
 </table>
