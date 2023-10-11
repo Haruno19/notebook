@@ -78,7 +78,11 @@
 <br>
 
 
-<h2 align="left"> My Studying Setup </h2>
-<h3>Devices</3>
-<h3>Software</h3>
-<i>WIP</i>
+<h2 align="left"> Note taking Setup </h2>
+I mainly take notes with <a href="http://goodnotes.com/">Goodnotes 5</a> on my iPad. Between the first and second year, I also used <a href="http://craft.do">Craft Docs</a> for more text-heavy notes, but then went back to Goodnotes, to have more flexibility with space management on the pages, as well as the ability to draw graphs and tables more reliably. <br>
+<br>
+I then export my notes into pdf files and upload them into this repository :) <br>
+<br>
+For programming-realted courses, notes include (or consist of) source files, such as Java, LISP, Prolog and C++ source files. <br>
+I took C++ notes as .md files directly into Visual Studio Code.
+
