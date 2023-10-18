@@ -1,4 +1,4 @@
-## Strings
+## Cast
 ###### 12.10.2023
 
 In C++ esistono diversi modi per fare il **cast** tra tipi
