@@ -1,6 +1,6 @@
 ## Ridefinzione Operatori
-##### 08.11.23
-##### _Il codice in questo file è di esempio e non è completo, per ogni stampa di oggetto con cout bisogna ridefinire l'operatore << sull'oggetto, con adeguate modifiche alla classe per rendere tale ridefinzione possibile e sematicamente sensata_
+###### 08.11.23
+###### _Il codice in questo file è di esempio e non è completo, per ogni stampa di oggetto con cout bisogna ridefinire l'operatore << sull'oggetto, con adeguate modifiche alla classe per rendere tale ridefinzione possibile e sematicamente sensata_
 ---
 
 In C++ è possibile ridefinire gli operatori. Un operatore può essere ridefinito all'interno di una **classe**, e quindi valido per gli oggetti di quella classe, oppure **globalmente**.  
