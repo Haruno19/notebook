@@ -28,6 +28,6 @@
 
 <br><h3><i>How I'm doing</i></h3>
 <table><tr>
-  <td>Just started :)</td>
+  <td>Halfway through</td>
   <td>Average score: <b> </b>/30</td>
 </tr></table>
