@@ -7,6 +7,10 @@
       <h4>First Semester</h4>
       <h6><i>September - February</i></h6>
     </td>
+    <td>
+      <h4>Second Semester</h4>
+      <h6><i>March - August</i></h6>
+    </td>
   </tr>
   <tr>
     <td>
@@ -15,6 +19,9 @@
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Interazione%20Uomo-Macchina"><b>Human-Computer Interaction</b></a><br>
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Introduzione%20all'Intelligenza%20Artificiale"><b>Introduction to Artificial Intelligence</b></a><br>
       <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Programmazione%20C%2B%2B"><b>C++ Programming</b></a><br>
+    </td>
+    <td>
+      <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Secondo%20Semestre/Stage"><b>Intership (Intuitionistic Fuzzy Clustering)</b></a><br>
     </td>
 </tr>
 </table>
