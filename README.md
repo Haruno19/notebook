@@ -73,6 +73,11 @@
     &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Primo%20Semestre/Programmazione%20C%2B%2B"><b>Programmazione C++</b></a>
       <i>- [C++ Programming]</i><br>
   </details>
+  <details>
+      <summary><b>2º Semester</b></summary>
+    &emsp;• <a href="https://github.com/Haruno19/notebook/tree/main/Terzo%20Anno/Secondo%20Semestre/Stage"><b>Stage (Intuitionistic Fuzzy Clustering)</b></a>
+      <i>- [Internship]</i><br>
+  </details>
 
 </ul>
 <br>
